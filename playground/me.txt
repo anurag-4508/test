@@ -1,0 +1,5 @@
+{{#user}
+Name: Anurag Mandloi
+Skills: HTML, CSS, JS, React, Node, MongoDb, GitHub, Express, Python
+Email: anuragmandloi30@gmail.com
+{{/user}}
